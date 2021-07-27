@@ -48,7 +48,7 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 10 
 
 #### Pesticide
 
-A fully functional bug-tracking software using NodeJS (Express and Mongo) and NextJS.
+A semi-functional bug-tracking software using NodeJS (Express and Mongo) and NextJS.
 
 [Repo](https://github.com/AverageDemo/Pesticide)
 
