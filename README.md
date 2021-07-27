@@ -1,16 +1,59 @@
 ### Hi there 👋
+I'm a passionate self-taught __full-stack web developer__ with a little over 10 years of experience and hobbyist embedded systems engineer from the US. I'm currently working on various projects (both hobby and commercial) some of which you'll find here on my profile. I'm open to collaborate on interesting projects so feel free to reach out!
 
-<!--
-**AverageDemo/AverageDemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My favorite technologies
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="">
+        <img src="./img/ts.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br />TypeScript
+    </td>
+    <td align="center" width="100">
+      <a href="">
+        <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br />JavaScript
+    </td>
+    <td align="center" width="100">
+      <a href="">
+        <img src="./img/next-js.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br />NextJS
+    </td>
+    <td align="center" width="100">
+      <a href="">
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br />React
+    </td>
+    <td align="center" width="100">
+      <a href="">
+        <img src="./img/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br />Tailwind CSS
+    </td>
+    <td align="center" width="100">
+      <a href="">
+        <img src="./img/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br />Django
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actively developed projects
+
+#### Pesticide
+
+A fully functional bug-tracking software using NodeJS (Express and Mongo) and NextJS.
+
+[Repo](https://github.com/AverageDemo/Pesticide)
+
+#### nBlog
+
+nBlog (Next Blog) is a project that I'm working on to showcase the ability of a full-stack NextJS project. It's going to leverage technologies such as TypeScript, Prisma, and NextAuth.
+
+[Repo](https://github.com/AverageDemo/nBlog)
