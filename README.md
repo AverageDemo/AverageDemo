@@ -6,7 +6,7 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 10 
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="">
+      <a href="https://www.typescriptlang.org/">
         <img src="./img/ts.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br />TypeScript
@@ -18,25 +18,25 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 10 
       <br />JavaScript
     </td>
     <td align="center" width="100">
-      <a href="">
+      <a href="https://nextjs.org/">
         <img src="./img/next-js.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br />NextJS
     </td>
     <td align="center" width="100">
-      <a href="">
+      <a href="https://reactjs.org/">
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br />React
     </td>
     <td align="center" width="100">
-      <a href="">
+      <a href="https://tailwindcss.com/">
         <img src="./img/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <br />Tailwind CSS
     </td>
     <td align="center" width="100">
-      <a href="">
+      <a href="https://www.djangoproject.com/">
         <img src="./img/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br />Django
