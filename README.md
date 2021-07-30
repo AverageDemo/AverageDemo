@@ -56,7 +56,7 @@ A semi-functional bug-tracking software using NodeJS (Express and Mongo) and Nex
 
 nBlog (Next Blog) is a project that I'm working on to showcase the ability of a full-stack NextJS project. It's going to leverage technologies such as TypeScript, Prisma, and NextAuth.
 
-[Repo](https://github.com/AverageDemo/nBlog)
+[Repo](https://github.com/AverageDemo/nBlog#readme)
 
 
 
