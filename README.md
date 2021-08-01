@@ -18,6 +18,12 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 10 
       <br />JavaScript
     </td>
     <td align="center" width="100">
+      <a href="https://nestjs.com/">
+        <img src="./img/nestjs.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br />NestJS
+    </td>
+    <td align="center" width="100">
       <a href="https://nextjs.org/">
         <img src="./img/next-js.svg" width="48" height="48" alt="NextJS" />
       </a>
