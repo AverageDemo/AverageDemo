@@ -60,4 +60,10 @@ nBlog (Next Blog) is a project that I'm working on to showcase the ability of a 
 
 ![nblog-demo](https://raw.githubusercontent.com/AverageDemo/averagedemo.github.io/master/assets/img/nblog-demo.png)
 
+#### nDash
+
+A new-tab dashboard written in NextJS that will be easily deployable to Vercel. It will include a 'widget-like' system to be able to include weather, reddit news-feed, task management, etc
+
+[Repo](https://github.com/AverageDemo/nDash#readme)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=averagedemo.visitor-badge)
