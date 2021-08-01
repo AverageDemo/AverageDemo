@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a passionate self-taught __full-stack web developer__ with a little over 10 years of experience and hobbyist embedded systems engineer from the US. I'm currently working on various projects (both hobby and commercial) some of which you'll find here on my profile. I'm open to collaborate on interesting projects so feel free to reach out!
 
-## My favorite technologies
+## My favorite tech
 
 <table>
   <tr>
