@@ -72,4 +72,7 @@ A new-tab dashboard written in NextJS that will be easily deployable to Vercel. 
 
 [Repo](https://github.com/AverageDemo/nDash#readme)
 
+![nDash](https://user-images.githubusercontent.com/46252711/127851075-960605c0-7806-4975-8737-c81c37e3358b.png)
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=averagedemo.visitor-badge)
