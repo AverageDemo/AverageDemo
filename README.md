@@ -68,7 +68,7 @@ nBlog (Next Blog) is a project that I'm working on to showcase the ability of a 
 
 #### nDash
 
-A new-tab dashboard written in NextJS that will be easily deployable to Vercel. It will include a 'widget-like' system to be able to include weather, reddit news-feed, task management, etc
+A new-tab dashboard written in NextJS that will be easily deployable to Vercel. It will include a 'widget-like' system to be able to include weather, reddit news-feed, task management, etc. Below is a screenshot of its current state.
 
 [Repo](https://github.com/AverageDemo/nDash#readme)
 
