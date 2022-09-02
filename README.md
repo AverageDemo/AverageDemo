@@ -24,6 +24,12 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 13 
       <br />PHP
     </td>
     <td align="center" width="100">
+      <a href="https://go.dev/">
+        <img src="https://github.com/egonelbre/gophers/blob/master/vector/projects/network.svg" width="48" height="48" alt="Go" />
+      </a>
+      <br />Go
+    </td>
+    <td align="center" width="100">
       <a href="https://nestjs.com/">
         <img src="./img/nestjs.svg" width="48" height="48" alt="NextJS" />
       </a>
@@ -40,12 +46,6 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 13 
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br />React
-    </td>
-    <td align="center" width="100">
-      <a href="https://go.dev/">
-        <img src="https://github.com/egonelbre/gophers/blob/master/vector/projects/network.svg" width="48" height="48" alt="Go" />
-      </a>
-      <br />Go
     </td>
     <td align="center" width="100">
       <a href="https://www.djangoproject.com/">
