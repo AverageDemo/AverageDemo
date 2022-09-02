@@ -42,10 +42,10 @@ I'm a passionate self-taught __full-stack web developer__ with a little over 13 
       <br />React
     </td>
     <td align="center" width="100">
-      <a href="https://tailwindcss.com/">
-        <img src="./img/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" />
+      <a href="https://go.dev/">
+        <img src="https://github.com/egonelbre/gophers/blob/master/vector/projects/network.svg" width="48" height="48" alt="Go" />
       </a>
-      <br />Tailwind CSS
+      <br />Go
     </td>
     <td align="center" width="100">
       <a href="https://www.djangoproject.com/">
